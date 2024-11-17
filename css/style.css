@@ -1,0 +1,13 @@
+.font{
+    text-align: center;
+}
+.font h1{
+    font-size: 80px;
+    font-family: Impact;
+    font-weight: 900;
+    margin-block: 50px;
+}
+.font p{
+    font-size: 35px;
+    margin-bottom: 35px;
+}
